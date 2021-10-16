@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IG_SIGNUP</string>
+    <string name="phone">Add your phone number, <b> You can always change it later.</b></string>
+    <string name="login">
+    Already have an Account <b>Log in.</b>
+    </string>
+</resources>
